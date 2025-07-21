@@ -1,0 +1,14 @@
+{
+  "name": "playwright",
+  "lockfileVersion": 3,
+  "requires": true,
+  "packages": {},
+  "devDependencies": {
+    "@playwright/test": "^1.54.1",
+    "@types/node": "^24.0.15"
+  },
+  "scripts": {},
+  "dependencies": {
+    "dotenv": "^17.2.0"
+  }
+}
